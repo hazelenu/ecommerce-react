@@ -85,9 +85,9 @@ $ yarn build
 
 
 ## 💻 Tech Stack
-- Frontend: React, Redux, Vite
-- Backend: MongoDB, Firebase Auth
-- Deployment: Vercel / Netlify / Firebase Hosting
+- **Frontend:** React, Redux, Vite
+- **Backend:** MongoDB, Firebase Auth
+- **Deployment:** Vercel / Netlify / Firebase Hosting
 
 
 ## 👩‍💻 Author
