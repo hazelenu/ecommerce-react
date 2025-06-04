@@ -2,7 +2,7 @@
 
 A full-featured e-commerce web application built using **React**, **Redux**, and **MongoDB**, offering a seamless shopping experience with advanced product search, user authentication, and personalized dashboards.
 
-> 📆 Developed as a Spring 2023 project  
+> 📆 Spring 2023 project  
 > 🚀 35% increase in user engagement and satisfaction during testing
 
 
