@@ -1,8 +1,8 @@
+// vite.config.js
 import react from '@vitejs/plugin-react';
 import path from 'path';
 import { defineConfig } from 'vite';
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
     react(),
@@ -12,7 +12,8 @@ export default defineConfig({
       '@': path.resolve(__dirname, 'src')
     }
   },
+  base: './', // ✅ 加上这一行，修复路径问题！
   server: {
     port: 3000
   }
-})
+});
